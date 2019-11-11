@@ -78,4 +78,3 @@ worker
 queen
 drone
 mite
-
