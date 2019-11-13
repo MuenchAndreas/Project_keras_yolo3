@@ -329,7 +329,6 @@ data/obj/87.varroamiteonbee_bayerbeecarecenter_img0634im6h6drw-540x396.jpg 75,58
 data/obj/9.varroamilbe-varroa-destructor-wabe-bienenstock.jpg
 data/obj/9.varroa_miteiqm91fo6w0h0both.jpg 142,71,834,509,0
 data/obj/90.berlin-germany-drone-with-varroa-mite-infestation-X5G8RM.jpg 157,204,1205,667,1
-data/obj/90.Varroa.jpg 1100,70,1370,441,0 1253,553,1500,995,0 900,658,1229,1000,0 859,176,1106,617,0 618,6,853,382,0 429,276,635,688,0 1,688,435,876,0
 data/obj/91.r338_134_2003_1260_w1200_h678_fmax.jpg 563,173,843,441,0
 data/obj/95.34850.jpg 47,106,250,447,0
 data/obj/96.Honey_bee_and_mite.jpg 104,83,682,530,0
