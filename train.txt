@@ -146,7 +146,6 @@ data/obj/4.100973799-queen-bee-is-always-surrounded-by-the-workers-bees-_E2_80_9
 data/obj/4.Apis_mellifera_scutellata_1355021.jpg 125,118,387,350,1 103,311,259,481,0 325,334,420,512,0 341,4,512,135,0 398,136,512,202,0 1,286,175,433,0 364,184,512,276,0 357,261,512,351,0 5,16,212,143,0
 data/obj/40.d41586-019-02771-6_17176008.jpg 131,65,427,387,2
 data/obj/40.queen-bee.jpg 41,165,475,363,1
-data/obj/41.$_72.jpg 97,71,449,379,1
 data/obj/42.Honeybees-building-combs.jpg 17,123,299,327,0
 data/obj/43.Markierte-Bienenk_C3_B6nigin-1-398x410.jpg 209,197,331,381,1
 data/obj/43.queen-bee.jpg 45,71,503,507,0
