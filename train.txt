@@ -225,7 +225,6 @@ data/obj/2.Varroa-Mite-on-Bee-Featured-Image.jpg 235,3,389,491,0
 data/obj/20.biene-varroa-milbe.jpg 101,31,415,479,0
 data/obj/20.Queenbee_with_Varroa_Mite_2010.jpg 57,161,479,355,1 1,352,231,495,0
 data/obj/21.DDP_15407sm.jpg 1,4,357,461,0
-data/obj/21.NZ_20varroa_20on_20bee_2012_20Mar_202007_20Dr_20Rob_20Manning_20photo.jpg
 data/obj/22.varroa-mites-on-bees.jpg 51,55,211,229,0 293,179,401,367,0 1,99,111,361,0 391,145,505,311,0
 data/obj/22.varroamilben-setzen-sich-in-die-brutwaben-bevor-d-sven-christian-schulz-utopia-190815_download.jpg 13,203,93,327,0 235,75,345,181,0 417,181,511,317,0 71,69,195,141,0
 data/obj/23.62719.jpg 141,107,401,347,2
