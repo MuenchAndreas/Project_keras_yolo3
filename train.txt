@@ -227,7 +227,6 @@ data/obj/2.Varroa-Mite-on-Bee-Featured-Image.jpg 235,3,389,491,0
 data/obj/20.biene-varroa-milbe.jpg 101,31,415,479,0
 data/obj/20.Queenbee_with_Varroa_Mite_2010.jpg 57,161,479,355,1 1,352,231,495,0
 data/obj/21.DDP_15407sm.jpg 1,4,357,461,0
-data/obj/21.NZ%20varroa%20on%20bee%2012%20Mar%202007%20Dr%20Rob%20Manning%20photo.jpg
 data/obj/21.NZ_20varroa_20on_20bee_2012_20Mar_202007_20Dr_20Rob_20Manning_20photo.jpg
 data/obj/22.varroa-mites-on-bees.jpg 51,55,211,229,0 293,179,401,367,0 1,99,111,361,0 391,145,505,311,0
 data/obj/22.varroamilben-setzen-sich-in-die-brutwaben-bevor-d-sven-christian-schulz-utopia-190815_download.jpg 13,203,93,327,0 235,75,345,181,0 417,181,511,317,0 71,69,195,141,0
@@ -437,7 +436,6 @@ data/obj/4.biene100-resimage_v-tsmall169_w-512.jpg 107,101,387,435,0
 data/obj/40.Bienen_20mit_20gelben_20Bl_C3_BCtenstaub_shutterstock.8df7fbf6a6ad39c88abbe1b1b5106245.jpg 203,171,431,443,0
 data/obj/41.Bienen_20mit_20gelben_20Bl_C3_BCtenstaub_shutterstock.8df7fbf6a6ad39c88abbe1b1b5106245.jpg 203,187,429,445,0
 data/obj/42.190520-1446-biene.jpg 151,159,381,461,0
-data/obj/42.220px-Nasinov_9024.jpg 113,67,453,455,0
 data/obj/42.Bienen_20mit_20gelben_20Bl_C3_BCtenstaub_shutterstock.8df7fbf6a6ad39c88abbe1b1b5106245.jpg 203,181,421,437,0
 data/obj/43.190520-1446-biene.jpg 159,163,383,477,0
 data/obj/43.twosteppatht.jpg 143,35,297,347,1 323,219,451,391,0 121,311,237,512,0 343,73,499,197,0 299,333,420,512,0
