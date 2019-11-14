@@ -327,7 +327,6 @@ data/obj/9.varroamilbe-varroa-destructor-wabe-bienenstock.jpg
 data/obj/9.varroa_miteiqm91fo6w0h0both.jpg 142,71,834,509,0
 data/obj/90.berlin-germany-drone-with-varroa-mite-infestation-X5G8RM.jpg 157,204,1205,667,1
 data/obj/91.r338_134_2003_1260_w1200_h678_fmax.jpg 563,173,843,441,0
-data/obj/95.34850.jpg 47,106,250,447,0
 data/obj/1.220px-Honigbiene-Basilikum-04.jpg 127,93,427,481,0
 data/obj/1.3179218B-6138-442F-AA4D3E3EF7E98924_source.jpg 101,51,411,261,0
 data/obj/1.Carnica_bee_on_solidago.jpg 73,15,423,439,0
@@ -560,5 +559,3 @@ data/obj/9.Worker-Bee.jpg 37,85,429,429,0
 data/obj/90.cs_0726_NF_Bees_miteonbee_1280x720.jpg 43,21,439,503,0
 data/obj/90.momentaufnahme-biene-blume-100~_t-1441441717272_v-16to9__medium.jpg 123,101,319,325,0
 data/obj/92.So-schuetzt-Mecklenburg-Vorpommern-seine-Bienen_mobile_default_2_1@2x.jpg 67,135,427,453,0
-
-
