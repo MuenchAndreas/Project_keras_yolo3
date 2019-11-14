@@ -328,7 +328,6 @@ data/obj/9.varroa_miteiqm91fo6w0h0both.jpg 142,71,834,509,0
 data/obj/90.berlin-germany-drone-with-varroa-mite-infestation-X5G8RM.jpg 157,204,1205,667,1
 data/obj/91.r338_134_2003_1260_w1200_h678_fmax.jpg 563,173,843,441,0
 data/obj/95.34850.jpg 47,106,250,447,0
-data/obj/96.Honey_bee_and_mite.jpg 104,83,682,530,0
 data/obj/1.220px-Honigbiene-Basilikum-04.jpg 127,93,427,481,0
 data/obj/1.3179218B-6138-442F-AA4D3E3EF7E98924_source.jpg 101,51,411,261,0
 data/obj/1.Carnica_bee_on_solidago.jpg 73,15,423,439,0
