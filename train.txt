@@ -16,7 +16,6 @@ data/obj/15.fe_api_castesofhoneybee_clip_image002.jpg 30,100,132,370,0 159,75,27
 data/obj/16.449b62cc5d30047b4be412534a39e73a.jpg 75,131,453,359,2
 data/obj/17.Biene.jpg 123,50,491,456,0
 data/obj/17.drone-bee.jpg 43,25,503,463,2
-data/obj/2.Drone_25a.jpg 41,184,484,488,2
 data/obj/20.Done-drone.jpg 84,20,484,481,2
 data/obj/20.what-is-role-of-drones-in-bee-family.jpg 21,125,509,472,2
 data/obj/21.depositphotos_61415851-stock-photo-bee-drone.jpg 28,159,459,388,2
