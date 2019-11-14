@@ -41,7 +41,6 @@ data/obj/36.drone_John-Brandauer-600x347.jpg 184,154,398,434,2 53,204,193,400,0 
 data/obj/37.biene-drohne-400-93551185.jpg 39,63,437,438,2
 data/obj/37.drone-363060_1920-featured.jpg 148,93,328,452,2
 data/obj/37.drone_John-Brandauer-600x347.jpg 175,147,412,445,2 368,9,512,186,0 139,381,339,512,0 46,195,189,384,0 9,20,189,177,0
-data/obj/4.Drohne.jpg 73,93,498,425,2
 data/obj/40.Honey-Bee-Biology-of-Queens-Drones-and-Workers.jpg 184,43,412,479,1 82,200,262,445,0 343,9,505,311,0
 data/obj/40.honigbiene-drohne-biene-mannlich-b33wmt.jpg 178,93,291,395,2 46,227,200,445,0 257,179,471,352,0 350,1,512,131,0 418,250,512,459,0
 data/obj/41.Honey-Bee-Biology-of-Queens-Drones-and-Workers.jpg 71,197,266,481,0 175,36,405,479,1 359,1,505,327,0
@@ -323,8 +322,6 @@ data/obj/87.BA31EA3C-AA14-4D70-AD5F-47406686854E_v0_l.jpg 62,103,191,271,0
 data/obj/87.varroamiteonbee_bayerbeecarecenter_img0634im6h6drw-540x396.jpg 75,58,396,266,0
 data/obj/9.varroamilbe-varroa-destructor-wabe-bienenstock.jpg
 data/obj/9.varroa_miteiqm91fo6w0h0both.jpg 142,71,834,509,0
-data/obj/90.berlin-germany-drone-with-varroa-mite-infestation-X5G8RM.jpg 157,204,1205,667,1
-data/obj/91.r338_134_2003_1260_w1200_h678_fmax.jpg 563,173,843,441,0
 data/obj/1.220px-Honigbiene-Basilikum-04.jpg 127,93,427,481,0
 data/obj/1.3179218B-6138-442F-AA4D3E3EF7E98924_source.jpg 101,51,411,261,0
 data/obj/1.Carnica_bee_on_solidago.jpg 73,15,423,439,0
