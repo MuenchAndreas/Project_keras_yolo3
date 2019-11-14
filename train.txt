@@ -311,7 +311,6 @@ data/obj/76.Huang-Fig-3-2.jpg
 data/obj/76.IMG_14983_ausschnitt_sm.jpg 84,17,203,183,0
 data/obj/77.288822229-varroamilbe-westliche-honigbiene-imkerei-parasit.jpg 320,26,477,345,0 281,306,658,499,0 54,195,339,449,0
 data/obj/78.anotherspeci.jpg 372,50,560,413,0 517,1,719,213,0
-data/obj/79.1755_2872_1_g.jpg 210,105,359,282,0
 data/obj/8.Varroa-mite-2.jpg 50,40,303,230,0
 data/obj/80.honey-pattern-pollen-golden-insect-fauna-964037-pxhere.com_.jpg 410,135,626,391,0 882,203,1024,439,0 654,487,934,675,0 374,399,474,659,0 210,59,402,279,0
 data/obj/80.varroa-mite-varroa-destructor-or-jacobsoni-a-parasite-on-a-bee-brood-comb-with-larvae-of-drone-bees-apis-mellifera-X993G4.jpg
