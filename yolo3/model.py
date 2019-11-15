@@ -73,10 +73,10 @@ def yolo_body(inputs, num_anchors, num_classes):
     x, y1 = make_last_layers(darknet.output, 512, num_anchors*(num_classes+5))
 
     x = compose(
-            DarknetConv2D_BN_Leaky(27, (1,1)),
+            DarknetConv2D_BN_Leaky(256, (1,1)),
             UpSampling2D(2))(x)
     x = Concatenate()([x,darknet.layers[152].output])
-    x, y2 = make_last_layers(x, 27, num_anchors*(num_classes+5))
+    x, y2 = make_last_layers(x, 256, num_anchors*(num_classes+5))
 
     x = compose(
             DarknetConv2D_BN_Leaky(128, (1,1)),
@@ -103,7 +103,7 @@ def tiny_yolo_body(inputs, num_anchors, num_classes):
             DarknetConv2D_BN_Leaky(512, (3,3)),
             MaxPooling2D(pool_size=(2,2), strides=(1,1), padding='same'),
             DarknetConv2D_BN_Leaky(1024, (3,3)),
-            DarknetConv2D_BN_Leaky(27, (1,1)))(x1)
+            DarknetConv2D_BN_Leaky(256, (1,1)))(x1)
     y1 = compose(
             DarknetConv2D_BN_Leaky(512, (3,3)),
             DarknetConv2D(num_anchors*(num_classes+5), (1,1)))(x2)
@@ -113,7 +113,7 @@ def tiny_yolo_body(inputs, num_anchors, num_classes):
             UpSampling2D(2))(x2)
     y2 = compose(
             Concatenate(),
-            DarknetConv2D_BN_Leaky(27, (3,3)),
+            DarknetConv2D_BN_Leaky(256, (3,3)),
             DarknetConv2D(num_anchors*(num_classes+5), (1,1)))([x2,x1])
 
     return Model(inputs, [y1,y2])
