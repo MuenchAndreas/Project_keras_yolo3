@@ -113,7 +113,7 @@ def tiny_yolo_body(inputs, num_anchors, num_classes):
             UpSampling2D(2))(x2)
     y2 = compose(
             Concatenate(),
-            DarknetConv2D_BN_Leaky(256, (3,3)),
+            DarknetConv2D_BN_Leaky(27, (3,3)),
             DarknetConv2D(num_anchors*(num_classes+5), (1,1)))([x2,x1])
 
     return Model(inputs, [y1,y2])
